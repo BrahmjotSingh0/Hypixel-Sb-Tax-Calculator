@@ -1,0 +1,12 @@
+*{
+    background-color:rgb(255, 255, 255);
+}
+  .container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: auto; 
+  }
+  .border {
+    padding: 20px; 
+  }
